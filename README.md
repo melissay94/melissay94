@@ -1,4 +1,4 @@
-![banner](/githubBanner.jpg)
+![banner](https://github.com/melissay94/melissay94/blob/master/githubBanner.jpg)
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=melissay94&show_icons=true&title_color=50878E&icon_color=7C3693&line_height=27">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissay94&title_color=50878E&icon_color=7C3693&hide=html,java">
